@@ -1,4 +1,3 @@
-````markdown
 # AI Model Intelligence
 
 > **Stop calling every AI model an "LLM."**
