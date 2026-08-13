@@ -1,3 +1,4 @@
+````markdown
 # AI Model Intelligence
 
 > **Stop calling every AI model an "LLM."**
@@ -166,3 +167,141 @@ ai-model-intelligence/
 ├── package-lock.json
 ├── eslint.config.js
 └── vite.config.js
+````
+
+---
+
+## ⚡ Getting Started
+
+### Prerequisites
+
+Make sure you have:
+
+* Node.js
+* npm
+* Git
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Akash-Selvaraj-R/ai-model-intelligence.git
+```
+
+Navigate into the project:
+
+```bash
+cd ai-model-intelligence
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL provided by Vite, typically:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 📦 Production Build
+
+Create an optimized production build:
+
+```bash
+npm run build
+```
+
+Preview the production build locally:
+
+```bash
+npm run preview
+```
+
+---
+
+## 🌐 Deployment
+
+The application is designed to be deployed as a Vite application and can be hosted on platforms such as Vercel.
+
+---
+
+## 🎯 Why This Project?
+
+AI is often presented as if every intelligent system is simply an **LLM**.
+
+In reality, different architectures are designed for different problems.
+
+Some models understand language.
+
+Some understand images.
+
+Some specialize in efficient edge inference.
+
+Some route computation through specialized experts.
+
+Some interact with tools and environments.
+
+Some segment visual information.
+
+**AI Model Intelligence** is an attempt to make those differences easier to understand through interaction rather than documentation alone.
+
+---
+
+## 📌 Project Goals
+
+This project aims to:
+
+* Make AI architecture concepts visually understandable
+* Encourage architecture-aware system design
+* Demonstrate interactive frontend engineering
+* Connect theoretical concepts with practical use cases
+* Provide a hands-on way to compare AI architectures
+
+---
+
+## 🔮 Future Improvements
+
+Potential future additions include:
+
+* More AI architectures
+* Advanced architecture visualizations
+* Performance and cost comparisons
+* Interactive model pipelines
+* More real-world case studies
+* Additional quizzes and challenges
+* Model recommendation improvements
+* AI-powered architecture explanations
+
+---
+
+## 👤 Author
+
+**Akash Selvaraj R**
+
+Built as an interactive exploration of modern AI architectures and the systems built around them.
+
+---
+
+## ⭐ If you find this project useful
+
+Consider giving the repository a ⭐ on GitHub.
+
+Feedback, ideas, and contributions are welcome.
+
+---
+
+**Learn the architecture. Understand the trade-offs. Build the right system.**
+
+```
