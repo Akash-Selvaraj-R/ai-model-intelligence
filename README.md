@@ -302,5 +302,3 @@ Feedback, ideas, and contributions are welcome.
 ---
 
 **Learn the architecture. Understand the trade-offs. Build the right system.**
-
-```
